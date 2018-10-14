@@ -41,7 +41,7 @@ https://github.com/shadowsocks/shadowsocks-qt5/releases
 
 - 下载 [Shadowsocks Linux平台 GUI 客户端](https://github.com/shadowsocks/shadowsocks-qt5/releases/download/v3.0.0/Shadowsocks-Qt5-3.0.0-x86_64.AppImage)，并启动（系统界面右上角将出现一个圆型的绿色背景图标）
 
-![编辑服务器](res/ubuntu-usage-01.png)
+  ![编辑服务器](res/ubuntu-usage-01.png)
 
 - 菜单栏选择 **Connection** - **Add** - **Manually**
 
